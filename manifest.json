@@ -1,0 +1,13 @@
+{
+  "name": "MSPL",
+  "version": "1",
+  "manifest_version": 3,
+  "description": "Opens Dashboards in new tab",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": ["activeTab", "tts", "scripting", "tabs"]
+}
