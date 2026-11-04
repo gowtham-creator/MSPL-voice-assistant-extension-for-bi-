@@ -15,7 +15,7 @@
 <rect width="1280" height="320" fill="url(#glow)"/>
 <rect x="0" y="0" width="7" height="320" fill="#6B7280"/>
 <text x="64" y="118" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="-1.4" fill="#ffffff">MSPL Voice Assistant Extension For Bi</text>
-<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">JavaScript project with 4 JavaScript modules: `background (1)`,</text>
-<text x="66" y="188" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">`background`, `content (1)`.</text>
+<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">Voice-controlled Chrome extension for MSPL that opens Power BI dashboards</text>
+<text x="66" y="188" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">by spoken command.</text>
 <g><rect x="66" y="232" rx="13" ry="13" width="105" height="26" fill="#ffffff" fill-opacity="0.22" stroke="#ffffff" stroke-opacity="0.55"/><text x="118" y="250" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" fill="#ffffff" fill-opacity="0.92">JavaScript</text></g>
 </svg>
