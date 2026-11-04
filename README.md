@@ -2,10 +2,12 @@
 
 <img alt="MSPL Voice Assistant Extension For Bi" src=".github/banner.svg" width="100%">
 
+Voice-controlled Chrome extension for MSPL that opens Power BI dashboards by spoken command.
+
 <br>
 
 
-![language](https://img.shields.io/badge/language-JavaScript-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2023--10--19-1F2937?style=flat-square&labelColor=111827)
+![language](https://img.shields.io/badge/language-JavaScript-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2026--11--04-1F2937?style=flat-square&labelColor=111827)
 
 </div>
 
@@ -13,7 +15,7 @@
 
 ## What this is
 
-JavaScript project with 4 JavaScript modules: `background (1)`, `background`, `content (1)`. Also checked in: 1 markdown document. The sections below are read from the repository itself, 6 tracked files as of 2023-10-19.
+The voice-driven variant of the MSPL dashboard extension, adding spoken commands to open Power BI dashboards. Carries two generations of the background and content scripts side by side.
 
 <div align="center">
 
